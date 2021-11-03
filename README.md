@@ -2,7 +2,7 @@
 
 <img src="https://i.ibb.co/W5X1s7d/clock.gif" alt="clock" border="0">
 
-> Because it all starts with a form.
+> if the time is going to be programming.
 
 
 
